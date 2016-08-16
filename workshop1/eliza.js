@@ -31,6 +31,9 @@ var rules = {
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
   ],
+    "~*x Norwegian wood ~*y": [
+    "german chocolate cake."
+  ],
     "~*x Blue Tuesday ~*y": [
     "Hello what would yo like with your coffe."
   ],
