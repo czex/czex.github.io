@@ -31,8 +31,8 @@ var rules = {
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
   ],
-    "~*x Hi my name is Cemre ~*y": [
-    "How do you do Cemre. My name is Eliza."
+    "~*x Blue Tuesday ~*y": [
+    "Hello what would yo like with your coffe."
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
